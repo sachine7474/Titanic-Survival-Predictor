@@ -13,7 +13,7 @@ Welcome to the **Titanic Survival Predictor**! This project allows users to pred
 
 Here’s a preview of the Titanic Survival Predictor app:
 
-![App Preview](https://github.com/Tanmay-hue/Streamlit_Titanic_Survival/blob/master/image.png)
+![App Preview](https://github.com/sachine7474/Titanic-Survival-Predictor/blob/main/image.png)
 
 ---
 
@@ -31,7 +31,7 @@ Here’s a preview of the Titanic Survival Predictor app:
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/tanmay-hue/Streamlit_Titanic_Survival.git
+git clone https://github.com/sachine7474/Titanic-Survival-Predictor
 cd Streamlit_Titanic_Survival
 ```
 
@@ -117,5 +117,5 @@ titanic-survival-predictor/
 
 Happy coding and may the odds of survival be ever in your favor! 🏆💻
 
-By - Tanmay Singh
+By - Sachin Kumar
 ```
