@@ -31,7 +31,7 @@ Here’s a preview of the Titanic Survival Predictor app:
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/sachine7474/Titanic-Survival-Predictor
+git clone https://github.com/sachine7474/Titanic-Survival-Predictor.git
 cd Streamlit_Titanic_Survival
 ```
 
